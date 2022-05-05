@@ -1,0 +1,22 @@
+.container{
+    margin-bottom: 100px;
+}
+.color{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel{
+    padding: 20px 40px;
+}
+.praic{
+    color: #FF136F;
+}
+.bay-now{
+    background-image: linear-gradient(to bottom, #ff589B 0%, #FF136F);
+
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
