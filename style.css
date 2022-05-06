@@ -20,3 +20,35 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    padding: 10PX 30PX;
+    border-radius: 10px;
+}
+.cat1{
+    background: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightseagreen;
+    border-radius: 10px;
+}
+.card-fuoter{
+    background-color: white;
+    border: none;
+}
+#subctaib{
+    background-color: orange;
+    height: 300px;
+}
